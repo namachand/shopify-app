@@ -7,7 +7,7 @@ const Index = () => {
 
     return (
         <Page
-            title={"Shipify 🎉"}
+            title={"Shipify Jumpstarter 🎉"}
             primaryAction={{
                 content: "Add Shipping",
                 onAction: () => setOpen(true),
